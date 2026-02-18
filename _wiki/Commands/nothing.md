@@ -1,5 +1,5 @@
 ---
-title: .nothing
+title: .usless
 category: Command
 labels:
   - stub
